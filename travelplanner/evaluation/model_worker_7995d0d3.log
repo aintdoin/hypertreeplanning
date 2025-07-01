@@ -1,0 +1,5 @@
+2024-09-12 14:23:21 | INFO | stdout | > [0;32m/home/rqgui/TravelPlanner/agents/tool_agents.py[0m(512)[0;36mprompt_agent[0;34m()[0m
+2024-09-12 14:23:21 | INFO | stdout | [0;32m    511 [0;31m                [0;32mimport[0m [0mipdb[0m[0;34m;[0m[0mipdb[0m[0;34m.[0m[0mset_trace[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+2024-09-12 14:23:21 | INFO | stdout | [0m[0;32m--> 512 [0;31m                [0mcatch_openai_api_error[0m[0;34m([0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+2024-09-12 14:23:21 | INFO | stdout | [0m[0;32m    513 [0;31m                [0mprint[0m[0;34m([0m[0mself[0m[0;34m.[0m[0m_build_agent_prompt[0m[0;34m([0m[0;34m)[0m[0;34m)[0m[0;34m[0m[0;34m[0m[0m
+2024-09-12 14:23:21 | INFO | stdout | [0m

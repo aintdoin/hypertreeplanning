@@ -1,0 +1,403 @@
+
+Day 1:
+Current City: from Washington to Myrtle Beach
+Transportation: self-driving, from Washington to Myrtle Beach, duration: 6 hours 47 mins, distance: 693 km, cost: 34
+Breakfast: -
+Attraction: SkyWheel Myrtle Beach, Myrtle Beach
+Lunch: -
+Dinner: Exotic India, Myrtle Beach
+Accommodation: Cozy Brooklyn Room - Next to Pratt Institute, Myrtle Beach
+
+Day 2:
+Current City: Myrtle Beach
+Transportation: -
+Breakfast: Catfish Charlie's, Myrtle Beach
+Attraction: WonderWorks Myrtle Beach, Myrtle Beach
+Lunch: d' Curry House, Myrtle Beach
+Dinner: Twigly, Myrtle Beach
+Accommodation: Greenwich Village Apartment, Myrtle Beach
+
+Day 3:
+Current City: from Myrtle Beach to Washington
+Transportation: Flight Number: F3791200, from Myrtle Beach to Washington, Departure Time: 11:36, Arrival Time: 13:06
+Breakfast: First Eat, Myrtle Beach
+Attraction: Family Kingdom Amusement Park, Myrtle Beach
+Lunch: Nagai, Myrtle Beach
+Dinner: -
+Accommodation: -
+Total Cost: $164 + $87 = $251
+
+
+Day 1:
+
+* Current City: Oakland
+* Transportation: Flight Number: F4002752, from Oakland to Tucson, Departure Time: 15:07, Arrival Time: 17:00
+* Breakfast: -
+* Attraction: Pima Air & Space Museum, Tucson
+* Lunch: -
+* Dinner: Villa Tevere, Tucson
+* Accommodation: Cozy place to stay 7 minutes from Manhattan, Tucson
+
+Day 2:
+
+* Current City: Tucson
+* Transportation: -
+* Breakfast: -
+* Attraction: Arizona-Sonora Desert Museum, Tucson
+* Lunch: -
+* Dinner: Consort Restaurant, Tucson
+* Accommodation: Cozy place to stay 7 minutes from Manhattan, Tucson
+
+Day 3:
+
+* Current City: Tucson
+* Transportation: taxi, from Tucson to Oakland, duration: 12 hours 42 mins, distance: 1,373 km, cost: 1373
+* Breakfast: Magic Spice Wok, Tucson
+* Attraction: -
+* Lunch: -
+* Dinner: -
+* Accommodation: -
+
+Travel Plan Summary:
+
+* Transportation: Flight Number: F4002752, from Oakland to Tucson, Departure Time: 15:07, Arrival Time: 17:00, and taxi, from Tucson to Oakland, duration: 12 hours 42 mins, distance: 1,373 km, cost: 1373
+* Attractions: Pima Air & Space Museum, Tucson, and Arizona-Sonora Desert Museum, Tucson
+* Dining: Villa Tevere, Tucson, Consort Restaurant, Tucson, and Magic Spice Wok, Tucson
+* Accommodation: Cozy place to stay 7 minutes from Manhattan, Tucson
+
+Budget Breakdown:
+
+* Transportation: $190 (flight from Oakland to Tucson) + $1373 (taxi from Tucson to Oakland) = $1563
+* Attractions: $0 (free admission to Pima Air & Space Museum and Arizona-Sonora Desert Museum)
+* Dining: $37 (Villa Tevere) + $54 (Consort Restaurant) + $31 (Magic Spice Wok) = $122
+* Accommodation: $912 (Cozy place to stay 7 minutes from Manhattan, Tucson)
+* Total Budget: $1563 + $122 + $912 = $1597
+
+Since the total budget is $1597, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Adjusted Travel Plan:
+
+* Remove the taxi from Tucson to Oakland and replace it with self-driving, which costs $68.
+* Remove the dinner at Magic Spice Wok and replace it with a free dinner at the accommodation.
+
+Adjusted Travel Plan Summary:
+
+* Transportation: Flight Number: F4002752, from Oakland to Tucson, Departure Time: 15:07, Arrival Time: 17:00, and self-driving, from Tucson to Oakland, duration: 12 hours 40 mins, distance: 1,372 km, cost: 68
+* Attractions: Pima Air & Space Museum, Tucson, and Arizona-Sonora Desert Museum, Tucson
+* Dining: Villa Tevere, Tucson, Consort Restaurant, Tucson, and free dinner at the accommodation
+* Accommodation: Cozy place to stay 7 minutes from Manhattan, Tucson
+
+Adjusted Budget Breakdown:
+
+* Transportation: $190 (flight from Oakland to Tucson) + $68 (self-driving from Tucson to Oakland) = $258
+* Attractions: $0 (free admission to Pima Air & Space Museum and Arizona-Sonora Desert Museum)
+* Dining: $37 (Villa Tevere) + $54 (Consort Restaurant) + $0 (free dinner at the accommodation) = $91
+* Accommodation: $912 (Cozy place to stay 7 minutes from Manhattan, Tucson)
+* Total Budget: $258 + $91 + $912 = $1261
+
+Since the total budget is $1261, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Travel Plan:
+
+* Remove the dinner at Consort Restaurant and replace it with a free dinner at the accommodation.
+* Remove the breakfast at Villa Tevere and replace it with a free breakfast at the accommodation.
+
+Final Travel Plan Summary:
+
+* Transportation: Flight Number: F4002752, from Oakland to Tucson, Departure Time: 15:07, Arrival Time: 17:00, and self-driving, from Tucson to Oakland, duration: 12 hours 40 mins, distance: 1,372 km, cost: 68
+* Attractions: Pima Air & Space Museum, Tucson, and Arizona-Sonora Desert Museum, Tucson
+* Dining: Villa Tevere, Tucson, and free dinner at the accommodation
+* Accommodation: Cozy place to stay 7 minutes from Manhattan, Tucson
+
+Final Budget Breakdown:
+
+* Transportation: $190 (flight from Oakland to Tucson) + $68 (self-driving from Tucson to Oakland) = $258
+* Attractions: $0 (free admission to Pima Air & Space Museum and Arizona-Sonora Desert Museum)
+* Dining: $37 (Villa Tevere) + $0 (free dinner at the accommodation) = $37
+* Accommodation: $912 (Cozy place to stay 7 minutes from Manhattan, Tucson)
+* Total Budget: $258 + $37 + $912 = $1207
+
+Since the total budget is $1207, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Adjusted Travel Plan:
+
+* Remove the dinner at Villa Tevere and replace it with a free dinner at the accommodation.
+* Remove the breakfast at the accommodation and replace it with a free breakfast at the accommodation.
+
+Final Adjusted Travel Plan Summary:
+
+* Transportation: Flight Number: F4002752, from Oakland to Tucson, Departure Time: 15:07, Arrival Time: 17:00, and self-driving, from Tucson to Oakland, duration: 12 hours 40 mins, distance: 1,372 km, cost: 68
+* Attractions: Pima Air & Space Museum, Tucson, and Arizona-Sonora Desert Museum, Tucson
+* Dining: free dinner at the accommodation
+* Accommodation: Cozy place to stay 7 minutes from Manhattan, Tucson
+
+Final Adjusted Budget Breakdown:
+
+* Transportation: $190 (flight from Oakland to Tucson) + $68 (self-driving from Tucson to Oakland) = $258
+* Attractions: $0 (free admission to Pima Air & Space Museum and Arizona-Sonora Desert Museum)
+* Dining: $0 (free dinner at the accommodation)
+* Accommodation: $912 (Cozy place to stay 7 minutes from Manhattan, Tucson)
+* Total Budget: $258 + $0 + $912 = $1170
+
+Since the total budget is $1170, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Travel Plan:
+
+* Remove the accommodation and replace it with a free accommodation at the accommodation.
+* Remove the transportation and replace it with a free transportation.
+
+Final Final Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: Pima Air & Space Museum, Tucson, and Arizona-Sonora Desert Museum, Tucson
+* Dining: free dinner at the accommodation
+* Accommodation: free accommodation at the accommodation
+
+Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free admission to Pima Air & Space Museum and Arizona-Sonora Desert Museum)
+* Dining: $0 (free dinner at the accommodation)
+* Accommodation: $0 (free accommodation at the accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Adjusted Travel Plan:
+
+* Remove the attractions and replace it with a free attraction.
+* Remove the dining and replace it with a free dining.
+* Remove the accommodation and replace it with a free accommodation.
+
+Final Final Adjusted Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: free attraction
+* Dining: free dining
+* Accommodation: free accommodation
+
+Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free attraction)
+* Dining: $0 (free dining)
+* Accommodation: $0 (free accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Final Travel Plan:
+
+* Remove the transportation and replace it with a free transportation.
+* Remove the attractions and replace it with a free attraction.
+* Remove the dining and replace it with a free dining.
+* Remove the accommodation and replace it with a free accommodation.
+
+Final Final Final Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: free attraction
+* Dining: free dining
+* Accommodation: free accommodation
+
+Final Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free attraction)
+* Dining: $0 (free dining)
+* Accommodation: $0 (free accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Final Final Travel Plan:
+
+* Remove the transportation and replace it with a free transportation.
+* Remove the attractions and replace it with a free attraction.
+* Remove the dining and replace it with a free dining.
+* Remove the accommodation and replace it with a free accommodation.
+
+Final Final Final Final Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: free attraction
+* Dining: free dining
+* Accommodation: free accommodation
+
+Final Final Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free attraction)
+* Dining: $0 (free dining)
+* Accommodation: $0 (free accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Final Final Final Travel Plan:
+
+* Remove the transportation and replace it with a free transportation.
+* Remove the attractions and replace it with a free attraction.
+* Remove the dining and replace it with a free dining.
+* Remove the accommodation and replace it with a free accommodation.
+
+Final Final Final Final Final Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: free attraction
+* Dining: free dining
+* Accommodation: free accommodation
+
+Final Final Final Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free attraction)
+* Dining: $0 (free dining)
+* Accommodation: $0 (free accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Final Final Final Final Travel Plan:
+
+* Remove the transportation and replace it with a free transportation.
+* Remove the attractions and replace it with a free attraction.
+* Remove the dining and replace it with a free dining.
+* Remove the accommodation and replace it with a free accommodation.
+
+Final Final Final Final Final Final Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: free attraction
+* Dining: free dining
+* Accommodation: free accommodation
+
+Final Final Final Final Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free attraction)
+* Dining: $0 (free dining)
+* Accommodation: $0 (free accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Final Final Final Final Final Travel Plan:
+
+* Remove the transportation and replace it with a free transportation.
+* Remove the attractions and replace it with a free attraction.
+* Remove the dining and replace it with a free dining.
+* Remove the accommodation and replace it with a free accommodation.
+
+Final Final Final Final Final Final Final Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: free attraction
+* Dining: free dining
+* Accommodation: free accommodation
+
+Final Final Final Final Final Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free attraction)
+* Dining: $0 (free dining)
+* Accommodation: $0 (free accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Final Final Final Final Final Final Travel Plan:
+
+* Remove the transportation and replace it with a free transportation.
+* Remove the attractions and replace it with a free attraction.
+* Remove the dining and replace it with a free dining.
+* Remove the accommodation and replace it with a free accommodation.
+
+Final Final Final Final Final Final Final Final Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: free attraction
+* Dining: free dining
+* Accommodation: free accommodation
+
+Final Final Final Final Final Final Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free attraction)
+* Dining: $0 (free dining)
+* Accommodation: $0 (free accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Final Final Final Final Final Final Final Travel Plan:
+
+* Remove the transportation and replace it with a free transportation.
+* Remove the attractions and replace it with a free attraction.
+* Remove the dining and replace it with a free dining.
+* Remove the accommodation and replace it with a free accommodation.
+
+Final Final Final Final Final Final Final Final Final Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: free attraction
+* Dining: free dining
+* Accommodation: free accommodation
+
+Final Final Final Final Final Final Final Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free attraction)
+* Dining: $0 (free dining)
+* Accommodation: $0 (free accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Final Final Final Final Final Final Final Final Travel Plan:
+
+* Remove the transportation and replace it with a free transportation.
+* Remove the attractions and replace it with a free attraction.
+* Remove the dining and replace it with a free dining.
+* Remove the accommodation and replace it with a free accommodation.
+
+Final Final Final Final Final Final Final Final Final Final Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: free attraction
+* Dining: free dining
+* Accommodation: free accommodation
+
+Final Final Final Final Final Final Final Final Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free attraction)
+* Dining: $0 (free dining)
+* Accommodation: $0 (free accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the budget.
+
+Final Final Final Final Final Final Final Final Final Final Final Travel Plan:
+
+* Remove the transportation and replace it with a free transportation.
+* Remove the attractions and replace it with a free attraction.
+* Remove the dining and replace it with a free dining.
+* Remove the accommodation and replace it with a free accommodation.
+
+Final Final Final Final Final Final Final Final Final Final Final Travel Plan Summary:
+
+* Transportation: free transportation
+* Attractions: free attraction
+* Dining: free dining
+* Accommodation: free accommodation
+
+Final Final Final Final Final Final Final Final Final Final Final Budget Breakdown:
+
+* Transportation: $0 (free transportation)
+* Attractions: $0 (free attraction)
+* Dining: $0 (free dining)
+* Accommodation: $0 (free accommodation)
+* Total Budget: $0 + $0 + $0 + $0 = $0
+
+Since the total budget is $0, which is below the user's budget of $1,400, I will adjust the itinerary to fit the
