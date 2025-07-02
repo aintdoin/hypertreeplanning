@@ -52,19 +52,8 @@ bash eval.sh
 This code is adapted from [TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner)
 
 ```bash
-export OUTPUT_DIR=path/to/your/output/file
-# We support MODEL in ['gpt-3.5-turbo-X','gpt-4-1106-preview','gemini','mistral-7B']
-export MODEL_NAME=MODEL_NAME
-export OPENAI_API_KEY=YOUR_OPENAI_KEY
-export GOOGLE_API_KEY=YOUR_GOOGLE_KEY
-
-# SELECT_STRATEGY in ['random', 'all', 'pk']
-export SELECT_STRATEGY=all
-export SET_TYPE=validation
-# STRATEGY in ['direct','cot','react','collaboration','group'].
-
-cd tools/planner
-python sole_planning.py  --set_type $SET_TYPE --output_dir $OUTPUT_DIR --model_name $MODEL_NAME --strategy $STRATEGY --ind $IND --group_num $GROUP_NUM --select_strategy $SELECT_STRATEGY
+cd travelplanner/scripts
+bash run-soleplan.sh
 ```
 
 
