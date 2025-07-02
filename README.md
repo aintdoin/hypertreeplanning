@@ -40,8 +40,6 @@ pip install -r requirements.txt
 
 #### Evaluation
 
-
-
 ```bash
 cd travelplanner/scripts
 bash eval.sh
@@ -56,6 +54,25 @@ cd travelplanner/scripts
 bash run-soleplan.sh
 ```
 
+### Natural Plan
+We test HTP on the Trip Planning task.
+Please take a look at the paper for more details.
+
+#### Evaluation
+
+```bash
+cd natural_plan/scripts
+bash evaluate.sh
+```
+
+#### Reasoning
+
+This code is adapted from [Natural Plan](https://github.com/google-deepmind/natural-plan)
+
+```bash
+cd natural_plan/scripts
+bash response.sh
+```
 
 
 ## Citation
