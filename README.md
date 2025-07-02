@@ -38,7 +38,16 @@ pip install -r requirements.txt
 ```
 2. Download the [database](https://drive.google.com/file/d/1pF1Sw6pBmq2sFkJvm-LzJOqrmfWoQgxE/view?usp=drive_link) and unzip it to the `TravelPlanner` directory (i.e., `your/path/TravelPlanner`).
 
-#### Code
+#### Evaluation
+
+
+
+```bash
+cd travelplanner/scripts
+bash eval.sh
+```
+
+#### Reasoning
 
 This code is adapted from [TravelPlanner](https://github.com/OSU-NLP-Group/TravelPlanner)
 
