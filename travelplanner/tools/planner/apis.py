@@ -113,9 +113,7 @@ class Planner:
     def run(self, text, query, number, log_file=None) -> str:
         if log_file:
             log_file.write('\n---------------Planner\n'+self._build_agent_prompt(text, query))
-        #print(self._build_agent_prompt(text, query))
         if 'gpt' in self.model_name:
-            import ipdb;ipdb.set_trace()
             request = self.llm([HumanMessage(content=self._build_agent_prompt(text, query))])
             return request.content
         elif self.model_name in ['gemini']:
@@ -497,9 +495,9 @@ class HTPlanner:
         self.leaves_dict = {i: leaf.value for i, leaf in enumerate(self.leaves)}
         if self.leaves == []:
             return False
-        #request = format_step(self.plan_llm([HumanMessage(content=self._build_select_prompt())]).content)
-        #print(request)
-        return '0'
+        request = format_step(self.plan_llm([HumanMessage(content=self._build_select_prompt())]).content)
+        return request
+    
     def generate_responses(self, category):
         if self.visiting_city_number == 1:
             responses = {
@@ -580,18 +578,14 @@ class HTPlanner:
                 break
             self.selected_node = self.leaves[int(selected_index)]
             iteration_count += 1
-        #self.final_tree = self.convert_llm([HumanMessage(content=self._build_tree_convert_prompt())]).content
         self.final_tree = self.current_tree.show().rstrip('\n')
-        print("超树结构：", self.final_tree)
         self.thinking_process = self.plan_llm([HumanMessage(content=self._build_execute_prompt())]).content
-        print("思考过程：",self.thinking_process)
         travel_plan = self.plan_generate()
         return travel_plan
 
     def plan_generate(self):
         self.plan_generation_prompt = plan_generation_prompt
         plan = self.plan_llm([HumanMessage(content=self._build_plan_generation_prompt())]).content
-        print("规划结果：",plan)
         plan_convert_prompt = PLAN_CONVERT+"\nTEXT:\n"+plan+"\nJSON:\n"
         plan = self.convert_llm([HumanMessage(content=plan_convert_prompt)]).content
         plan = plan.lstrip("```json").rstrip('```')

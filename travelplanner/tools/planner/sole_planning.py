@@ -64,16 +64,16 @@ if __name__ == "__main__":
     directory = f'{args.output_dir}/{args.set_type}'
     if args.set_type == 'train':
         #query_data_list  = load_dataset('osunlp/TravelPlanner','train')['train']
-        data_file_path = '/home/rqgui/TravelPlanner/train_data.pkl'
+        data_file_path = './train_data.pkl'
         with open(data_file_path, 'rb') as file:
             query_data_list = pickle.load(file) 
     elif args.set_type == 'validation':
-        data_file_path = '/home/rqgui/TravelPlanner/validation_data.pkl'
+        data_file_path = './validation_data.pkl'
         with open(data_file_path, 'rb') as file:
             query_data_list = pickle.load(file) 
     elif args.set_type == 'test':
         #query_data_list  = load_dataset('osunlp/TravelPlanner','test')['test']
-        data_file_path = '/home/rqgui/TravelPlanner/test_data.pkl'
+        data_file_path = './test_data.pkl'
         with open(data_file_path, 'rb') as file:
             query_data_list = pickle.load(file) 
     numbers = [i for i in range(1,len(query_data_list)+1)]
