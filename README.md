@@ -58,13 +58,6 @@ bash run-soleplan.sh
 We test HTP on the Trip Planning task.
 Please take a look at the paper for more details.
 
-#### Evaluation
-
-```bash
-cd natural_plan/scripts
-bash evaluate.sh
-```
-
 #### Reasoning
 
 This code is adapted from [Natural Plan](https://github.com/google-deepmind/natural-plan)
@@ -72,6 +65,35 @@ This code is adapted from [Natural Plan](https://github.com/google-deepmind/natu
 ```bash
 cd natural_plan/scripts
 bash response.sh
+```
+
+#### Evaluation
+
+```bash
+cd natural_plan/scripts
+bash evaluate.sh
+```
+
+### PlanBench
+We test HTP on the Blocksworld and Mystery Blocksworld task.
+Please take a look at the paper for more details.
+
+#### Prerequisites
+Please refer to [PlanBench](https://github.com/harshakokel/PlanBench)
+
+#### Reasoning
+This code is adapted from [PlanBench](https://github.com/harshakokel/PlanBench)
+
+```bash
+cd PlanBench/scripts
+bash response.sh
+```
+
+#### Evaluation
+
+```bash
+cd PlanBench/scripts
+bash evaluate.sh
 ```
 
 
